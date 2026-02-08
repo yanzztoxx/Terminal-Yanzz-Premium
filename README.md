@@ -1,5 +1,7 @@
 # Terminal Yanzz Premium
 
+Tutorial Install Ada Di Tiktok : @misteryanzz
+
 Terminal tool with:
 - RGB ASCII animated
 - Loading screen with beep
