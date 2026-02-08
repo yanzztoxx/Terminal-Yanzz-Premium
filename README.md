@@ -1,18 +1,16 @@
-# Terminal-Yanzz-Premium
-# YANZZ CLI 🔥
+# Terminal Yanzz Premium
 
-Terminal tools dengan:
+Terminal tool with:
 - RGB ASCII animated
-- Loading screen RGB + beep
+- Loading screen with beep
 - Python & JavaScript runner
 - File history
-- GitHub opener
-- Termux friendly
+- GitHub user opener
 
-## 📦 Install
+## Install
+
 ```bash
-pkg install git
-git clone https://github.com/USERNAME/yanzz-cli
-cd yanzz-cli
+pkg install git python nodejs nano
+git clone https://github.com/yanzztoxx/Terminal-Yanzz-Premium
+cd Terminal-Yanzz-Premium
 bash install.sh
-
