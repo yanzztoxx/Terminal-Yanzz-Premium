@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import os, sys, time, subprocess, readline
 from datetime import datetime, timedelta
 
