@@ -8,7 +8,7 @@ Terminal tool with:
 - Python & JavaScript runner
 - File history
 - GitHub user opener
-
+spam bug sh
 ## Install
 
 ```bash
