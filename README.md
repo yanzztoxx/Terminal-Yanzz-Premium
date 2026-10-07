@@ -16,3 +16,7 @@ pkg install git python nodejs nano
 git clone https://github.com/yanzztoxx/Terminal-Yanzz-Premium
 cd Terminal-Yanzz-Premium
 bash install.sh
+pkg install git python nodejs nano
+git clone https://github.com/yanzztoxx/Terminal-Yanzz-Premium
+cd Terminal-Yanzz-Premium
+bash install.sh
